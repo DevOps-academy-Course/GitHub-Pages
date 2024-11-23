@@ -1,9 +1,9 @@
 # Welcome to my Demo Git-Hub Pages Site!
-This i s a basic website hosted on GitHub using the `README.md` file.
+- This i s a basic website hosted on GitHub using the `README.md` file.
 
 
  ## About me
- I am a DevOps Engineer passionate about open source projects.
+ - I am a DevOps Engineer passionate about open source projects.
 
  ## Projects
  - [Project 1](https://github.com/m-pasima/Maven-enterprise-application)
