@@ -4,8 +4,8 @@ This i s a basic website hosted on GitHub using the `README.md` file.
  I am a DevOps Engineer passionate about open source projects.
 
  ## Projects
- - [Project 1] (https://github.com/m-pasima/Maven-enterprise-application)
- - [pROJECT 2] (https://github.com/m-pasima/maven-web-application)
+ - [Project 1](https://github.com/m-pasima/Maven-enterprise-application)
+ - [Project 2](https://github.com/m-pasima/maven-web-application)
 
    ## Contact
    - Email : passypet@gmail.com.
